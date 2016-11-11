@@ -1,4 +1,4 @@
-<he>taxCalculator</h3>
+<h3>taxCalculator</h3>
 IOS App that spits out total value of a product after SD tax
 
 <h3>Built with</h3>
